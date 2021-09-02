@@ -32,6 +32,9 @@
 ### EJECUTAR LAS PRUEBAS
   ¿Cual es la diferencia entre ```mvn test``` y ``` mvn pakage```? .  
   Su diferencia es que ```mvn test``` compila y ejecuta el proyecto con sus respectivas pruebas, en cambio ```mvn package ``` compila el programa, pasa las pruebas y si este las pasa, el programa empaqueta el proyecto en un archivo ```.jar ```
-## FINALIZAR EL EJERCICIO
+### FINALIZAR EL EJERCICIO
   Para este ejercicio podemos hacer uso de cinco casos de equivalencia. En caso que la persona no este viva, en caso que la persona sea menor de edad, en caso que la edad de la persona sea invalida, en caso que el numeor de cedula de la persona este duplicado, en caso que la informacion ingresada sea correcta.
+## EJERCICIO DESCUENTO DE TARIFAS
+### IMPLEMENTACION DE LAS PRUEBAS
+  ![test aerodescuentos](https://github.com/DiegoGonzalez2807/lab3-cvds/blob/master/images/test.jpg)
 
